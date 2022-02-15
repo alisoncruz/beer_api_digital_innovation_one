@@ -96,8 +96,8 @@
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
-                            <version>${lombok.version}</version>
-                        </path>
+                            <version>1.18.22</version>
+                        </path>https://github.com/alisoncruz/beer_api_digital_innovation_one.git
                         <path>
                             <groupId>org.mapstruct</groupId>
                             <artifactId>mapstruct-processor</artifactId>
